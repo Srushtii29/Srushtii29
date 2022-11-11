@@ -1,6 +1,6 @@
-### Aloha, Amigos! I'm Srushti Shirhatti👋
-🌱 I’m currently learning Java 
-😄 Pronouns: She/Her
+### Aloha, Amigos! I'm Srushti Shirhatti👋<br />
+🌱 I’m currently learning Java <br />
+😄 Pronouns: She/Her<br />
 ⚡ Fun fact: I love to watch movies and hear songs!
 
 <!--
