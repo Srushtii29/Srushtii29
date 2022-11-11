@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning Java 
+😄 Pronouns: She/Her
+⚡ Fun fact: I love to watch movies and hear songs!
 
 <!--
 **Srushtii29/Srushtii29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
